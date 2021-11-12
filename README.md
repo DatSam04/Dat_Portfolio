@@ -1,5 +1,6 @@
 # Dat Boi Sam
 [Resume](https://datsam04.github.io/Resume/) [LinkedIn](https://www.linkedin.com/in/dat-sam-5969a2220/)
+
 Hi everyone, I'm studying at Seattle Pacific University. I have a strong passion for application, so I hope to use it to develop a great mobile app.
 
                             Portfolio
