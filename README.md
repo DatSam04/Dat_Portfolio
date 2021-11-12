@@ -1,9 +1,7 @@
-# Dat Boi Sam
+# Dat Boi Sam - Portfolio
 [Resume](https://datsam04.github.io/Resume/) [LinkedIn](https://www.linkedin.com/in/dat-sam-5969a2220/)
 
 Hi everyone, I'm studying at Seattle Pacific University. I have a strong passion for application, so I hope to use it to develop a great mobile app.
-
-                            Portfolio
 
 # [Project 1: Resources For New Student: GroupProject Overview](https://github.com/DatSam04/GroupProject)
 - Creating a menu to introduce different resources to new students using Java.
