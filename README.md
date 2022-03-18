@@ -15,7 +15,7 @@ Hi everyone, I'm studying at Seattle Pacific University. I have a strong passion
 - Create a 10x10 table for each team to store the ship in the console
 - Identify invalid input with try-catch exception handling
 
-#[Project 3: Quotes Reading Application](https://github.com/jeannenv/CSC3220_T4_Quotes.git)
+# [Project 3: Quotes Reading Application](https://github.com/jeannenv/CSC3220_T4_Quotes.git)
 - Work with other two classmates to create an application for final project
 - Create a Quotes Reading application using Qt5 Creator C++ and Sqlite Database
 - Make a simple database to store the quotes and easily access them by open the app
